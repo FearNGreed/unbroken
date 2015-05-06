@@ -11,9 +11,9 @@ i was involved in another Cryptocurrency project and that project ran into some 
 Specifictions 
 
 unbrokencoin is a POW Sha256d
-Here is our answer to the 2016 BLock retargeting that we thought was too long for a Altcoin, So we have a 2 block retarget.
+Here is our answer to the 2016 BLock retargeting that we thought was too long for a Altcoin, So we have a 30 block retarget.
 
-We sped up the number of confirmations from 120 - 60 so that miners wouldn't have to wait for extended periods of time to receive there rewards.
+We lowered the number of confirmations from 120 - 60 so that miners wouldn't have to wait for extended periods of time to receive there rewards.
 
 Fast Block times 120 seconds
 
